@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Dominios - México</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Lista de Dominios Disponibles</h1>
+            <p>Encuentra el dominio perfecto para tu proyecto en México</p>
+        </header>
+
+        <div class="filters">
+            <input type="text" id="searchInput" placeholder="Buscar dominio..." class="search-box">
+            <select id="tldFilter" class="filter-select">
+                <option value="">Todos los TLDs</option>
+            </select>
+        </div>
+
+        <div id="domainList" class="domain-grid">
+            <!-- Los dominios se cargarán aquí dinámicamente -->
+        </div>
+
+        <footer>
+            <p>&copy; 2024 Lista de Dominios. Todos los derechos reservados.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
