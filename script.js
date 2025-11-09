@@ -8,7 +8,7 @@ const domainData = {
         { "domain": "loc.club", "price": "$5169 USD" },
         { "domain": "v66.club", "price": "$1483 USD" },
         { "domain": "kun.club", "price": "$3240 USD" },
-        { "domain": "m5.club", "price": "$5540 USD" },
+        { "domain": "bar.club", "price": "$4230 USD" },
         { "domain": "mon.club", "price": "$5000 USD" }
     ],
     "bet": [
@@ -152,4 +152,5 @@ document.addEventListener('DOMContentLoaded', () => {
     new DomainManager();
 
 });
+
 
