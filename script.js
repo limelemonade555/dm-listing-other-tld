@@ -16,6 +16,7 @@ const domainData = {
         { "domain": "kit.bet", "price": "$2431 USD" },
         { "domain": "bam.bet", "price": "$4194 USD" },
         { "domain": "lip.bet", "price": "$2465 USD" },
+        { "domain": "gao.bet", "price": "$4000 USD" },
         { "domain": "sok.bet", "price": "$5304 USD" },
         { "domain": "vna.bet", "price": "$2653 USD" }
     ],
@@ -152,5 +153,6 @@ document.addEventListener('DOMContentLoaded', () => {
     new DomainManager();
 
 });
+
 
 
