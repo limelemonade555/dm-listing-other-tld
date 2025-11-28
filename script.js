@@ -18,6 +18,11 @@ const domainData = {
         { "domain": "lip.bet", "price": "$2465 USD" },
         { "domain": "gao.bet", "price": "$4000 USD" },
         { "domain": "sok.bet", "price": "$5304 USD" },
+        { "domain": "jun.bet", "price": "$10499 USD" },
+        { "domain": "suk.bet", "price": "$5799 USD" },
+        { "domain": "som.bet", "price": "$12811 USD" },
+        { "domain": "sum.bet", "price": "$20811 USD" },
+        { "domain": "xoc.bet", "price": "$5811 USD" },
         { "domain": "vna.bet", "price": "$2653 USD" }
     ],
     "Other": [
@@ -153,6 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
     new DomainManager();
 
 });
+
 
 
 
