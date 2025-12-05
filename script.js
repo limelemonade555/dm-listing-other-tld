@@ -1,37 +1,38 @@
 const domainData = {
     "club": [
-        { "domain": "k11.club", "price": "$1997 USD" },
-        { "domain": "9k.club", "price": "$2555 USD" },
-        { "domain": "s99.club", "price": "$1823 USD" },
-        { "domain": "xoc.club", "price": "$5331 USD" },
-        { "domain": "tic.club", "price": "$10610 USD" },
-        { "domain": "loc.club", "price": "$5169 USD" },
-        { "domain": "v66.club", "price": "$1483 USD" },
-        { "domain": "kun.club", "price": "$3240 USD" },
-        { "domain": "bar.club", "price": "$4230 USD" },
+        { "domain": "k11.club", "price": "$2000 USD" },
+        { "domain": "9k.club", "price": "$2500 USD" },
+        { "domain": "s99.club", "price": "$1800 USD" },
+        { "domain": "xoc.club", "price": "$5300 USD" },
+        { "domain": "tic.club", "price": "$10600 USD" },
+        { "domain": "loc.club", "price": "$5100 USD" },
+        { "domain": "v66.club", "price": "$1400 USD" },
+        { "domain": "kun.club", "price": "$3200 USD" },
+        { "domain": "bar.club", "price": "$4200 USD" },
         { "domain": "mon.club", "price": "$5000 USD" }
     ],
     "bet": [
-        { "domain": "gon.bet", "price": "$1535 USD" },
-        { "domain": "kit.bet", "price": "$2431 USD" },
-        { "domain": "bam.bet", "price": "$4194 USD" },
-        { "domain": "lip.bet", "price": "$2465 USD" },
+        { "domain": "gon.bet", "price": "$1500 USD" },
+        { "domain": "kit.bet", "price": "$2400 USD" },
+        { "domain": "bam.bet", "price": "$4100 USD" },
+        { "domain": "lip.bet", "price": "$2400 USD" },
         { "domain": "gao.bet", "price": "$4000 USD" },
-        { "domain": "sok.bet", "price": "$5304 USD" },
-        { "domain": "jun.bet", "price": "$10499 USD" },
-        { "domain": "suk.bet", "price": "$5799 USD" },
-        { "domain": "som.bet", "price": "$12811 USD" },
-        { "domain": "sum.bet", "price": "$20811 USD" },
-        { "domain": "xoc.bet", "price": "$5811 USD" },
-        { "domain": "vna.bet", "price": "$2653 USD" }
+        { "domain": "sok.bet", "price": "$5300 USD" },
+        { "domain": "jun.bet", "price": "$10400 USD" },
+        { "domain": "suk.bet", "price": "$5700 USD" },
+        { "domain": "som.bet", "price": "$12800 USD" },
+        { "domain": "sum.bet", "price": "$20800 USD" },
+        { "domain": "xoc.bet", "price": "$5800 USD" },
+        { "domain": "rice.bet", "price": "$2800 USD" },
+        { "domain": "vna.bet", "price": "$2600 USD" }
     ],
     "Other": [
-        { "domain": "hot.vip", "price": "$50523 USD" },
-        { "domain": "lex.win", "price": "$5706 USD" },
-        { "domain": "hit.mobi", "price": "$3081 USD" },
-        { "domain": "bet69.win", "price": "$1298 USD" },
-        { "domain": "vbet.top", "price": "$10447 USD" },
-        { "domain": "99bet.win", "price": "$9674 USD" }
+        { "domain": "hot.vip", "price": "$50500 USD" },
+        { "domain": "lex.win", "price": "$5700 USD" },
+        { "domain": "hit.mobi", "price": "$3000 USD" },
+        { "domain": "bet69.win", "price": "$1400 USD" },
+        { "domain": "vbet.top", "price": "$10400 USD" },
+        { "domain": "99bet.win", "price": "$9600 USD" }
     ],
 };
 
@@ -158,6 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
     new DomainManager();
 
 });
+
 
 
 
